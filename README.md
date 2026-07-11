@@ -345,7 +345,7 @@ ready-to-use plugins:
 * [`examples/plugins/`](examples/plugins/): first-party reference
   plugins maintained with the mod (hello_world, personal_best,
   target_probe boss-helper, damage_planner, api_inspector, animation
-  demo).
+  demo, nav_arrow, route_optimizer nearby radar / gathering router).
 * [`community-plugins/`](community-plugins/): submissions from users
   of the mod. Each file has the author's GitHub handle in its
   filename and a header naming the source. See that folder's README
